@@ -1,0 +1,29 @@
+Anthill Project Overview
+----------------------------
+
+A brief guide of the Anthill project. 
+
+=================
+Files and Folders
+=================
+
+art/              - original art resources
+anthill/           - anthill Android project
+  antlib/         - libraries for ant
+  assets/         - folder for raw assets
+  common-src/     - todoroo-commons source folder
+  gen/            - auto-generated source folder
+  libs/           - external jars
+  plugin-src/     - plugin source folder
+  res/            - android resources
+  src/            - anthill source folder
+  src-legacy/     - anthill v2 source folder
+bin/              - utility shell scripts
+docs/             - aanthill project documents
+LICENSE           - license under which source is released
+OVERVIEW          - this file
+README.md         - github project readme
+samples/          - anthill plugin code samples
+tests/            - unit test project
+translations/     - gettext .po and .pot files 
+
